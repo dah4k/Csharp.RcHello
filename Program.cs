@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using System;
 
-namespace RcHello;
+namespace Csharp.RcHello;
 class Program
 {
     static private string LoadEmbeddedFile(string pathname)
